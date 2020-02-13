@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TagMoo</string>
+    <string name="str_ok">Ok</string>
+    <string name="internet_not_connected">Internet not connected.</string>
+    <string name="str_submit">Submit</string>
+    <string name="str_image_view">ImageView</string>
+    <string name="str_take_a_picture">Take a Picture</string>
+    <string name="str_take_a_picture_for_compare">Take a Picture for compare</string>
+    <string name="str_retake">Retake</string>
+    <string name="str_take">Take a Picture</string>
+    <string name="str_picture_detail">Please take a picture. Please make sure the picture will show clear.</string>
+    <string name="str_compare">Compare</string>
+</resources>
